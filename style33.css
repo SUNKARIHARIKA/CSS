@@ -1,0 +1,23 @@
+div{
+    height:200px;
+    width:200px;
+    background-color:black;
+    color:wheat
+}
+div:hover{
+    background-color:brown;
+    color:chartreuse;
+    transition-property:all;
+    transition-duration:3s;
+    transition-timing-function:ease-in-out;
+    transition-delay:3s;
+}
+p{
+    background-color:blueviolet;
+}
+p:hover{
+    background-color:chartreuse;
+}
+div:active{
+    background-color:crimson;
+}

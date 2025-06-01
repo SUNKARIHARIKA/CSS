@@ -1,0 +1,28 @@
+body{
+    text-align:center;
+}
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border:2px solid black;
+}
+#container{
+    width:200px;
+    height:200px;
+    display:flex;
+    flex-direction:column-reverse;
+}
+#box1{
+    background-color:bisque;
+}
+#box2{
+    background-color:brown;
+}
+#box3{
+    background-color:aqua;
+}
+#box4{
+    background-color:chocolate;
+
+}

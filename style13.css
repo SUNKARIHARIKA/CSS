@@ -1,0 +1,15 @@
+div{
+    
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    display:inline-block;
+    border:25px solid brown;
+}
+button{
+    background-color:aqua;
+    display:inline-block;
+}
+/* inline elements -takes only space required for the element
+block elements-takes whole width for the element div tag occuipes 100% width so it is a block element  */

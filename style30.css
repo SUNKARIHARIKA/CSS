@@ -1,0 +1,32 @@
+#container{
+    height:600px;
+    width:500px;
+    display:flex;
+}
+div{
+    height:100px;
+    width:100px;
+    border:2px solid yellowgreen;
+
+}
+#box1{
+    background-color:aquamarine;
+    flex-basis:initial;
+}
+#box2{
+    background-color:black;
+    flex-basis:2px;
+}
+#box3{
+    background-color:blue;
+    flex-basis:inherit;
+    align-self:center;
+}
+#box4{
+    background-color:blanchedalmond;
+    flex-basis:10px;
+}
+#box5{
+    background-color:brown;
+    flex:3 4 2px;
+}

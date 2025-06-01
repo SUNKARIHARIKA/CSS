@@ -1,0 +1,27 @@
+#container{
+    height:600px;
+    width:500px;
+    display:flex;
+}
+div{
+    height:100px;
+    width:100px;
+    border:2px solid yellowgreen;
+    display:flex;
+}
+#box1{
+    background-color:aquamarine;
+    flex-shrink:1;
+}
+#box2{
+    background-color:black;
+    flex-shrink:2;
+}
+#box3{
+    background-color:blue;
+    flex-shrink:3;
+}
+#box4{
+    background-color:blanchedalmond;
+    flex-shrink:-10;
+}

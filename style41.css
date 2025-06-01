@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    color:white
+}
+body{
+    background-color:black;
+    color:white;
+}
+.navbar{
+    font-size:20px;
+    color:white;
+    display:flex;
+    width:100%;
+    height:3vh;
+    justify-content:space-around;
+}
+.about{
+    display:inline;
+    margin-left:50px;
+}
+h3{
+    display:inline;
+}
+a{
+    margin-left:40px;
+}
+.main{
+    background-image:url("girl.jpg");
+    background-size:cover;
+    background-position:center;
+    width:400px;
+    height:900px;
+    position:relative;
+    left:60%;
+    bottom:150px;
+}

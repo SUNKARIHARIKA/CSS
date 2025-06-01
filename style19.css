@@ -1,0 +1,26 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:2px solid black;
+    display: inline-block;
+
+}
+/* static position */
+#box2{
+    position:static;
+    top:50px;
+    bottom:100px;
+}
+/* if the display property is static there there is no change in position static position is by default */
+/* relative position */
+#box3{
+    position:relative;
+    top:10px;
+    left:20px;
+}
+/* absolute position */
+#box1{
+    position:absolute;
+    top:10px;
+}

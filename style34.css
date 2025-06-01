@@ -1,0 +1,21 @@
+div{
+    height:200px;
+    width:200px;
+    background-color:purple;
+    /*transform:rotate(45deg);*/
+    /*transform:scale(0.5,2);*/
+    /* transform:scale(2) */
+    /*transform:scale(10)*/
+    transition-property:all;
+    transition-duration:0s;
+   position:absolute;
+   left:20px;
+}
+div:hover{
+    transition-property: all;
+    transition-duration:2s;
+    background-color:blue;
+    transform:scale(5);
+    transform:rotate(90 deg);
+    transform:translate(20px,50px);
+}

@@ -1,0 +1,29 @@
+#container{
+    height:600px;
+    width:500px;
+    display:flex;
+}
+div{
+    height:100px;
+    width:100px;
+    border:2px solid yellowgreen;
+
+}
+#box1{
+    background-color:aquamarine;
+    align-self:center;
+}
+#box2{
+    background-color:black;
+    align-self:flex-end;
+}
+#box3{
+    background-color:blue;
+    align-self:space-around;
+}
+#box4{
+    background-color:blanchedalmond;
+}
+#box5{
+    background-color:brown;
+}

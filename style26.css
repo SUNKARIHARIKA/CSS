@@ -1,0 +1,29 @@
+#container{
+    height:600px;
+    width:500px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    align-content:stretch;
+}
+div{
+    height:100px;
+    width:100px;
+    border:2px solid yellowgreen;
+
+}
+#box1{
+    background-color:aquamarine;
+}
+#box2{
+    background-color:black;
+}
+#box3{
+    background-color:blue;
+}
+#box4{
+    background-color:blanchedalmond;
+}
+#box5{
+    background-color:brown;
+}

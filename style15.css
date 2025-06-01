@@ -1,0 +1,15 @@
+#box1{
+    height:100px;
+    width:100px;
+    background-color:aquamarine;
+    font-size:10px;
+}
+#box2{
+
+    width:50%;
+    background-color:pink;
+    font-size:2em;
+    height:20vh;
+}
+/* the width of the child box depends on the parent box the width of child box is 50% of the parent box in the given example */
+/* the em unit of child box depends on the parent 2em means 2 times the font size of box1 */

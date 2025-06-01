@@ -1,0 +1,22 @@
+div{
+    height:200px;
+    width:100px;
+    color:aquamarine;
+    text-align:center;
+    position:absolute;
+    background-color:black;
+    animation-name:coloranimate;
+    animation-duration:0.55s;
+    animation-iteration-count:infinite;
+    animation-direction:alternate;
+}
+/*@keyframes coloranimate{
+    from {background-color:blue;}
+    to {background-color:orangered;}
+}*/
+@keyframes coloranimate{
+    from{left:0px;
+         background-color:aquamarine;}
+    to {left:30px;
+    background-color:blue;}
+}
