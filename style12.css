@@ -1,0 +1,21 @@
+#a1{
+   height:50px;
+   width:50px;
+   background-color:red;
+   border-radius:50%;
+}
+#a2{
+    height:50px;
+   width:50px;
+   background-color:yellow;
+   border-radius:50%;
+}
+#a3{
+    height:50px;
+   width:50px;
+   background-color:green;
+   border-radius:50%;
+}
+#a1,a2,a3{
+    background-color:black;
+}

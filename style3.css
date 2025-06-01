@@ -1,0 +1,22 @@
+/*universal selector*/
+*{
+    background-color:aquamarine;
+}
+*{
+    color:brown;
+}
+/* element selector */
+h1{
+    color:#ff00ff;
+}
+/* id selector */
+#heading1{
+    color:skyblue;
+}
+#heading2{
+    background-color:orange;
+}
+/* class selector */
+.c1{
+    color:blue;
+}

@@ -1,0 +1,11 @@
+#heading1{
+    line-height:100px;
+}
+#heading2{
+    line-height:200px;
+    text-align:center;
+}
+div{
+    line-height:normal;
+}
+/* the line-height property specifies the height of the line */

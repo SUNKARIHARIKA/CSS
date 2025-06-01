@@ -1,0 +1,13 @@
+h1{
+    text-decoration:red wavy underline;
+}
+h2{
+    text-decoration:green doubled overline;
+}
+p{
+    text-decoration:line-through brown dotted;
+}
+/* the undeline for the link will be removed */
+a{
+    text-decoration:none;
+}

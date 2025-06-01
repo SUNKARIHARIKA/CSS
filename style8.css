@@ -1,0 +1,14 @@
+#heading1{
+    font-size:50px;
+    background-color:aquamarine;
+}
+#heading2{
+    font-size:100px;
+    background-color:black;
+    color:blueviolet;
+}
+#heading3{
+    font-size:200px;
+    background-color:chartreuse;
+    color:aqua;
+}

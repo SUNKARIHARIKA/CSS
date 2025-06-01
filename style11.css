@@ -1,0 +1,26 @@
+div{
+    height:100px;
+    background-color:pink;
+    width:100px;
+    border-width:15px;
+    border-style:solid;
+    border-color:blue;
+    border-radius:25%;
+    padding:100px 50px 75px 80px;
+    margin-top:100px;
+}
+h1{
+    width:100px;
+    height:100px;
+    background-color:black;
+    color:bisque;
+    text-align:center;
+    border:10px dotted orange;
+    text-decoration:underline;
+    text-transform: capitalize;
+    border-radius:50%;
+    padding-left:200px;
+    padding-right:200px;
+    padding-top:200px;
+    padding-bottom:150px;
+}

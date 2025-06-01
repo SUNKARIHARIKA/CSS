@@ -1,0 +1,18 @@
+/* the values for the font-weight property are normal bold bolder lighter etc */
+
+#c1{
+    font-weight:normal;
+}
+#c2{
+    font-weight:bold;
+}
+#c3{
+    font-weight:bolder;
+}
+#c4{
+    font-weight:lighter;
+}
+/* font size ranges from 100 to 900  100-lightest text and 900-darkest test */
+div{
+    font-weight:100;
+}
